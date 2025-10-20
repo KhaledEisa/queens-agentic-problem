@@ -1,4 +1,4 @@
-# 8-Queens Problem: Genetic Algorithm Solution# 8-Queens Problem: Genetic Algorithm Approach# N-Queens Problem: Intelligent Agent Approach
+# 8-Queens Problem: Genetic Algorithm Solution
 
 
 
