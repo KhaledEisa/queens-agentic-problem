@@ -1,16 +1,10 @@
 # 8-Queens Problem: Genetic Algorithm Solution
 
-
+**Assignment: 8-Queens Problem using Genetic Algorithm**
 
 **Advanced AI Course - AASTMT**  
 
-**Assignment: 8-Queens Problem using Genetic Algorithm**
-
-**Advanced AI Course - AASTMT**  **Advanced AI Course - AASTMT**  
-
 ---
-
-**Assignment: 8-Queens Problem with Genetic Algorithm****Assignment: N-Queens Problem with Multiple AI Algorithms**
 
 ## 📋 Table of Contents
 
